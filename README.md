@@ -22,6 +22,7 @@
 
 
 ## 🧩 Plugins
+- [Explo](https://github.com/LumePart/Explo/blob/main/README.md) - Automate music discovery for self-hosted systems by generating personalized playlists similar to Spotify's "Discover Weekly".
 - [FinTube](https://github.com/AECX/FinTube) - Easily add content from YouTube to your Jellyfin installation.
 - [InPlayerEpisodePreview](https://github.com/Namo2/InPlayerEpisodePreview) - Adds an episode list to the video player.
 - [intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect intro and outro segments in Jellyfin.
