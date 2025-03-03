@@ -457,7 +457,7 @@ clients:
         owner: dragonflylee
         repo: switchfin
 
-  - name: "tsukimi"
+  - name: "tsukimi Test"
     targets: [ Linux, Windows ]
     oss: https://github.com/tsukinaha/tsukimi
     official: false
