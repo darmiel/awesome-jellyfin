@@ -120,6 +120,7 @@
 - [xsrv.jellyfin](https://github.com/nodiscc/xsrv/tree/master/roles/jellyfin) - Ansible role to deploy and configure Jellyfin.
 - [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - Streams YouTube, Twitch and more via yt-dlp to Jellyfin.
 - [ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Automate downloading and metadata generation with YoutubeDL.
+* [jellyhub](https://github.com/Zigl3ur/jellyhub)  -  JellyHub is a web app that allow you to fetch media from all of your jellyfin servers and regroup it in one place, so there is one place to search for specific media and tells you on which server the desired media is located.
 
 
 #### 📜 Snippets
@@ -162,3 +163,4 @@ You can also [create a new issue](https://github.com/awesome-jellyfin/awesome-je
 * Early Release / BETA software ` 🔸 `
 * Closed-Source Software ` 📛 `
 * Stale / Inactive / May not work anymore ` 📅 `
+
