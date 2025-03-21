@@ -149,6 +149,11 @@ This section includes software, guides and tools that are not *specifically* des
 - [Threadfin](https://github.com/Threadfin/Threadfin) - M3U proxy for Jellyfin (Based on xTeVe).
 - [TRaSH Guides](https://trash-guides.info/) - Easy-to-understand guides for Sonarr, Radarr, and Bazarr, along with related tools.
 - [watchstate](https://github.com/ArabCoders/watchstate) - Sync play state between different media servers.
+* [jellyhub](https://github.com/Zigl3ur/jellyhub)
+
+ - 
+
+JellyHub is a web app that allow you to fetch media from all of your jellyfin servers and regroup it in one place, so there is one place to search for specific media and tells you on which server the desired media is located.
 
 
 ## Contribute
@@ -162,3 +167,4 @@ You can also [create a new issue](https://github.com/awesome-jellyfin/awesome-je
 * Early Release / BETA software ` 🔸 `
 * Closed-Source Software ` 📛 `
 * Stale / Inactive / May not work anymore ` 📅 `
+
