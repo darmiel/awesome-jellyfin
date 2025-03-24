@@ -21,7 +21,7 @@ clients:
       - type: app-store
         id: "1604098728"
 
-  - name: "Jellyfin Vue"
+ x- name: "Jellyfin Vue"
     targets: [ Browser ]
     oss: https://github.com/jellyfin/jellyfin-vue
     official: true
