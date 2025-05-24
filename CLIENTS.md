@@ -14,10 +14,10 @@ To make changes, please edit the `assets/clients/clients.yaml` file and regenera
 
 # By Environment
 
-## 🌎 Browser-Based Test
+## 🌎 Browser-Based
 
 | Name | OSS | Free | Paid | Downloads |
-| ---- | --- | ---- | ---- | --------- | 
+| ---- | --- | ---- | ---- | --------- |
 | [Feishin ` ⚒️ ` ` 🎵 `](https://github.com/jeffvli/feishin) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/jeffvli/feishin/total?logo=github&label=GitHub)](https://github.com/jeffvli/feishin/releases) |
 | [Fladder](https://github.com/DonutWare/Fladder) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/DonutWare/Fladder/total?logo=github&label=GitHub)](https://github.com/DonutWare/Fladder/releases) [![Google Play](https://img.shields.io/badge/Google%20Play-grey?logo=Google+Play&label=)](https://play.google.com/store/apps/details?id=nl.jknaapen.fladder) |
 | [Jellyfin Vue ` 🔹 ` ` ⚒️ `](https://github.com/jellyfin/jellyfin-vue) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/jellyfin/jellyfin-vue/total?logo=github&label=GitHub)](https://github.com/jellyfin/jellyfin-vue/actions/workflows/release.yml) [![Demo](https://img.shields.io/badge/Web-blue?logo=&label=Demo)](https://jf-vue.pages.dev/) |
