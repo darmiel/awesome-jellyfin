@@ -14,7 +14,7 @@ To make changes, please edit the `assets/clients/clients.yaml` file and regenera
 
 # By Environment
 
-## 🌎 Browser-Based
+## 🌎 Browser-Based Test
 
 | Name | OSS | Free | Paid | Downloads |
 | ---- | --- | ---- | ---- | --------- |
