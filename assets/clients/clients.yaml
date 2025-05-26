@@ -1,5 +1,5 @@
 clients:
-  - name: "Jellyfin Media Player"
+  - name: "Jellyf Test in Media Player"
     targets: [ Windows, Linux, macOS ]
     oss: https://github.com/jellyfin/jellyfin-media-player
     official: true
