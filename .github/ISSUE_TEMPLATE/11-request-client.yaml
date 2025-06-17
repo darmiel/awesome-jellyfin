@@ -38,7 +38,6 @@ body:
         - Kodi
         - Roku
         - WebOS
-    required: true
       
   - type: checkboxes
     id: price
@@ -47,6 +46,4 @@ body:
       description: Mark all that apply
       options:
         - label: Free
-        - label: Paid
-          description: Also mark if it has In-App purchases 
-    required: true
+        - label: Paid (or In-App Purchases)
