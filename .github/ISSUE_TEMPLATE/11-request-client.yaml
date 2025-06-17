@@ -23,20 +23,20 @@ body:
       label: Targets
       description: Which platforms does the client target?
       options:
-        - Browser
-        - Windows
-        - macOS
-        - Linux
-        - iOS
-        - Android
-        - Sailfish OS
-        - HarmonyOS
-        - Nintendo Switch
-        - Apple TV
-        - Android TV
-        - Kodi
-        - Roku
-        - WebOS
+        - label: Browser
+        - label: Windows
+        - label: macOS
+        - label: Linux
+        - label: iOS
+        - label: Android
+        - label: Sailfish OS
+        - label: HarmonyOS
+        - label: Nintendo Switch
+        - label: Apple TV
+        - label: Android TV
+        - label: Kodi
+        - label: Roku
+        - label: WebOS
       
   - type: checkboxes
     id: price
