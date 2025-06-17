@@ -12,7 +12,7 @@ clients:
         type: flathub
         package: com.github.iwalton3.jellyfin-media-player
 
-  - name: "Swiftfin"
+  - name: "Sw aiftfin"
     targets: [ iOS, AppleTV ]
     oss: https://github.com/jellyfin/swiftfin
     official: true
