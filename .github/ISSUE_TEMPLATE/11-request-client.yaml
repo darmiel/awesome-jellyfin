@@ -37,6 +37,8 @@ body:
         - label: Kodi
         - label: Roku
         - label: WebOS
+    validations:
+      required: true
       
   - type: checkboxes
     id: price
@@ -46,3 +48,17 @@ body:
       options:
         - label: Free
         - label: Paid
+    validations:
+      required: true
+
+  - type: textarea
+    id: downloads
+    attributes:
+      label: Download Links
+      description: Please provide all download links you can find, e.g. App Store, Play Store, ...
+      placeholder: |
+        GitHub: https://github.com/awesome-jellyfin/client
+        App Store: https://apps.apple.com/app/id0000000000
+    validations:
+      required: true
+    
