@@ -42,6 +42,7 @@ body:
         * use proper capitalization (e.g. `Jellyfin` instead of `jellyfin`)
         * start with a capital letter and end with a `.`
     
-  - type: markdown
+  - type: textarea
+    id: other
     attributes:
-      value: "> **Note**: If you suggest a theme, please include screenshots / links to screenshots if possible."
+      label: Anything else?
