@@ -62,3 +62,7 @@ body:
     validations:
       required: true
     
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?
