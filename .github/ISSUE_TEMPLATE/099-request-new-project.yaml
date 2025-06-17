@@ -2,9 +2,9 @@ name: "✨ Request new project"
 description: >
   Do you have a tool that is not yet listed and want it to be listed in the repo?
 
-title: "[REQUEST] <project>"
-labels: request
-assignees: TomRomeo, darmiel
+title: "Add <project>"
+labels: 
+  - request
 
 body:
   - type: markdown

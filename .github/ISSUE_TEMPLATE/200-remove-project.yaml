@@ -3,9 +3,9 @@ description: >
   Did you find a project, which shouldn't be on the list anymore? 
   Are you a maintainer of one of the listed projects and want it removed?
 
-title: "[REMOVAL] <affected-project>"
-labels: removal
-assignees: TomRomeo, darmiel
+title: "Remove <project>"
+labels: 
+  - removal
 
 body:
   - type: markdown

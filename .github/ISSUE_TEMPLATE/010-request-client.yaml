@@ -8,6 +8,10 @@ labels:
   - client
 
 body:      
+  - type: markdown
+    attributes:
+      value: "> Thank you so much for your help to make this list even better! 💖"
+
   - type: input
     id: project-website
     attributes:
@@ -37,8 +41,6 @@ body:
         - label: Kodi
         - label: Roku
         - label: WebOS
-    validations:
-      required: true
       
   - type: checkboxes
     id: price
@@ -48,8 +50,6 @@ body:
       options:
         - label: Free
         - label: Paid
-    validations:
-      required: true
 
   - type: textarea
     id: downloads
