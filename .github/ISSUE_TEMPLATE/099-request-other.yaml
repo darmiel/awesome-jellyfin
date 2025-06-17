@@ -31,7 +31,7 @@ body:
 
   - type: input
     id: short-description
-    attrivutes:
+    attributes:
       label: Short Description
       description: |
         This description will be shown in the list. 
