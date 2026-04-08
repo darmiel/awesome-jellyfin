@@ -992,6 +992,10 @@ clients:
         owner: MoazSalem
         repo: litefin
 
+  - name: "Retrik"
+    targets: [Linux, AndroidTV]
+    oss: https://github.com/darmiel/awesome-jellyfin/issues/new?template=010-request-client.yaml
+
 targets:
   - key: Browser
     display: "🌎 Browser-Based"
