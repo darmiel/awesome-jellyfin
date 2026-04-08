@@ -320,6 +320,22 @@ NeutralFin is a custom Jellyfin theme based on [lscambo13's ElegantFin](https://
 </table>
 
 ---
+## [portal](https://github.com/hosenur/portal) by hosenur
+
+[` 🔵 Get this Theme `](https://github.com/hosenur/portal)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/hosenur/portal/blob/main/banner.png" />
+    </td>
+    <td>
+      <img src="https://github.com/hosenur/portal/blob/main/banner.png" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## [Ultrachromic](https://github.com/CTalvio/Ultrachromic) by CTalvio
 
