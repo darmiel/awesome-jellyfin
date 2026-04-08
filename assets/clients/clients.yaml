@@ -10,7 +10,7 @@ clients:
       - type: flathub
         package: com.github.iwalton3.jellyfin-media-player
 
-  - name: Coppelia
+  - name: Coppelia Test
     targets: [iOS, Android, Linux, macOS]
     types: [Music]
     oss: https://github.com/j6k4m8/coppelia
