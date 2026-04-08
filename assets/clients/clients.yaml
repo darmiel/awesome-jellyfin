@@ -992,6 +992,10 @@ clients:
         owner: MoazSalem
         repo: litefin
 
+  - name: "Unknown DL"
+    targets: [Linux, HarmonyOS, AndroidTV]
+    oss: https://github.com/darmiel/awesome-jellyfin
+
 targets:
   - key: Browser
     display: "🌎 Browser-Based"
