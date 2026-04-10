@@ -24,7 +24,7 @@ clients:
         owner: j6k4m8
         repo: coppelia
 
-  - name: "Swiftfin"
+  - name: "Swiftfin Test"
     targets: [iOS, AppleTV]
     oss: https://github.com/jellyfin/swiftfin
     official: true
