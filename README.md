@@ -289,6 +289,7 @@
 - [jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - Collection of modifications and customizations for personalizing Jellyfin.
 - [Jellyfin Notification System](https://github.com/Fahmula/jellyfin-telegram-notifier) - Sends Telegram notifications with media images whenever a new movie, series, season, or episode is added to Jellyfin. `🔸 Stale`
 - [Jellyfin Segment Editor](https://github.com/intro-skipper/segment-editor) - Manage Jellyfin Media Segment positions.
+- [jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin written in Vue.js, offering a sleek and responsive interface.
 - [KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - Collection of UI enhancements and customization tweaks for Jellyfin.
 - [PPJF](https://github.com/Damocles-fr/PPJF) - Allows launching PotPlayer from Jellyfin Web.
 - [Scyphomote](https://github.com/eiffelbeef/scyphomote) - A dedicated remote control for Jellyfin with support for playback transparency, trickplay previews, and more.
