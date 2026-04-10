@@ -992,6 +992,18 @@ clients:
         owner: MoazSalem
         repo: litefin
 
+  - name: "Daniel's Client"
+    targets: [HarmonyOS, Kodi, WebOS]
+    oss: https://github.com/darmiel/awesome-jellyfin
+    price:
+      free: true
+    downloads:
+      - type: github
+        owner: darmiel
+        repo: awesome-jellyfin
+      - type: google-play
+        id: "com.imangi.templerun"
+
 targets:
   - key: Browser
     display: "🌎 Browser-Based"
