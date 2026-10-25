@@ -5,7 +5,7 @@ name: ijelly
 author: safiyu
 author_url: https://github.com/safiyu
 repo: https://github.com/safiyu/ijelly
-description: Apple TV inspired themes, optimised for desktop and Samsung TVs.
+description: A collection of six themes for Jellyfin Web (Apple TV, Cinematheque Noir, Editorial, Gallery, Blueprint, and Poster-Tinted).
 status: listed
 screenshots:
   - https://github.com/safiyu/ijelly/blob/main/screenshots/web/apple-library.jpg?raw=true

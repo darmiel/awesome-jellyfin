@@ -4,7 +4,7 @@ owners:
 name: Better Jellyfin UI
 author: tromoSM
 repo: https://github.com/tromoSM/better-jellyfin-ui
-description: Restyles the interface, with optional add-ons such as a floating header and a high-contrast mode.
+description: A refined and modern UI enhancement for Jellyfin focused on improved layout, animations, and iOS design.
 status: hidden
 screenshots:
   - https://github.com/tromoSM/better-jellyfin-ui/blob/main/Assets/desktop-main.png?raw=true

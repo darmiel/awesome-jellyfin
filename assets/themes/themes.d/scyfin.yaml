@@ -4,7 +4,7 @@ owners:
 name: Scyfin
 author: loof2736
 repo: https://github.com/loof2736/scyfin
-description: A custom theme for the Jellyfin web UI, with several colour themes.
+description: Custom CSS theme for Jellyfin with support for backdrops and themes
 status: hidden
 screenshots:
   - https://github.com/loof2736/scyfin/raw/main/images/homepage.png

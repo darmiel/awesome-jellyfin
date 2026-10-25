@@ -4,8 +4,9 @@ owners:
 name: Ultrachromic
 author: CTalvio
 repo: https://github.com/CTalvio/Ultrachromic
-description: A very configurable theme. The preview shows its three ready-made presets.
+description: The final form, the true evolution of the chromic theme saga
 status: hidden
+note: 'There are several variations of the theme, for a more detailed overview, see the Ultrachromic README: https://github.com/CTalvio/Ultrachromic#readme'
 screenshots:
   - https://user-images.githubusercontent.com/4365015/127774204-03957527-7178-4ea2-8674-d83fe6a97d1c.png
   - https://user-images.githubusercontent.com/4365015/127768733-c86aee2c-3bff-4b78-be54-003823d60276.png

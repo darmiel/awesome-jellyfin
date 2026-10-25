@@ -4,7 +4,7 @@ owners:
 name: Zesty
 author: stpnwf
 repo: https://github.com/stpnwf/ZestyTheme
-description: A minimal theme with several colour schemes.
+description: A minimal and elegant theme for Jellyfin
 status: hidden
 screenshots:
   - https://github.com/stpnwf/ZestyTheme/blob/main/images/home.jpg

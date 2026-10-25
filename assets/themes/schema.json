@@ -19,7 +19,7 @@
     "website": { "type": "string", "pattern": "^https?://" },
     "description": { "type": "string" },
     "status": {
-      "description": "listed: shown in THEMES.md. hidden: kept in the data (e.g. pending compatibility), still previewable.",
+      "description": "listed: shown in THEMES.md. hidden: shown in the collapsed section for themes not yet updated for the current Jellyfin version.",
       "enum": ["listed", "hidden"]
     },
     "note": { "type": "string" },

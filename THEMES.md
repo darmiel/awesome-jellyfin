@@ -18,7 +18,7 @@ If an image is no longer available or out of date, please create an [issue](http
 
 ## [Abyss](https://aumgupta.github.io/abyss-jellyfin/) by [AumGupta](https://github.com/AumGupta)
 
-A clean, minimal dark theme with frosted glass surfaces and smooth transitions. [` 🔵 Get this Theme `](https://github.com/AumGupta/abyss-jellyfin)
+A clean, minimal dark theme with frosted glass surfaces, smooth transitions, and a clutter-free home screen spotlight add-on. [` 🔵 Get this Theme `](https://github.com/AumGupta/abyss-jellyfin)
 
 <table>
   <tr>
@@ -87,7 +87,7 @@ Inspired by Jellyseerr, with many small fixes to the UI and UX. [` 🔵 Get this
 
 ## [ijelly](https://github.com/safiyu/ijelly) by [safiyu](https://github.com/safiyu)
 
-Apple TV inspired themes, optimised for desktop and Samsung TVs. [` 🔵 Get this Theme `](https://github.com/safiyu/ijelly)
+A collection of six themes for Jellyfin Web (Apple TV, Cinematheque Noir, Editorial, Gallery, Blueprint, and Poster-Tinted). [` 🔵 Get this Theme `](https://github.com/safiyu/ijelly)
 
 <table>
   <tr>
@@ -145,7 +145,10 @@ Inspired by Flow, Zesty and Ultrachromic, with a large set of colour schemes. [`
 
 ## [SleekFin](https://github.com/varunaditya-plus/SleekFin) by varunaditya-plus
 
-A full Jellyfin Web refresh with a home hero section and redesigned pages. Installed as a plugin. [` 🔵 Get this Theme `](https://github.com/varunaditya-plus/SleekFin)
+A full reskin of every part of Jellyfin, with a modern black interface and precise customisation through a live UI Builder. [` 🔵 Get this Theme `](https://github.com/varunaditya-plus/SleekFin)
+
+> [!NOTE]
+> Requires Jellyfin 12.0 and [File Transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation).
 
 <table>
   <tr>
@@ -173,7 +176,7 @@ A full Jellyfin Web refresh with a home hero section and redesigned pages. Insta
 An AMOLED black theme for Jellyfin 12, made for desktop, phones and tablets. [` 🔵 Get this Theme `](https://github.com/MakD/zombie-release)
 
 > [!NOTE]
-> The featured hero on the home page needs the separate Jellyfin Media Bar, so the preview shows the theme without it.
+> The featured hero on the home page needs the separate Jellyfin Media Bar.
 
 <table>
   <tr>
@@ -207,7 +210,7 @@ In an effort to make sure the themes in this list work with the newest version, 
 
 ## [Better Jellyfin UI](https://github.com/tromoSM/better-jellyfin-ui) by tromoSM
 
-Restyles the interface, with optional add-ons such as a floating header and a high-contrast mode. [` 🔵 Get this Theme `](https://github.com/tromoSM/better-jellyfin-ui)
+A refined and modern UI enhancement for Jellyfin focused on improved layout, animations, and iOS design. [` 🔵 Get this Theme `](https://github.com/tromoSM/better-jellyfin-ui)
 
 <table>
   <tr>
@@ -387,7 +390,7 @@ A theme for Jellyfin, with a work-in-progress build for Jellyfin 12. [` 🔵 Get
 
 ## [Jamfin](https://github.com/JamsRepos/Jamfin) by JamsRepos
 
-A glassmorphism design for Jellyfin. [` 🔵 Get this Theme `](https://github.com/JamsRepos/Jamfin)
+Bringing a modern, sleek glassmorphism design to Jellyfin, enhancing your media server's aesthetics. [` 🔵 Get this Theme `](https://github.com/JamsRepos/Jamfin)
 
 <table>
   <tr>
@@ -412,7 +415,7 @@ A glassmorphism design for Jellyfin. [` 🔵 Get this Theme `](https://github.co
 
 ## [NetFin](https://github.com/ya0903/NetFin) by ya0903
 
-A Netflix-like theme for Jellyfin. [` 🔵 Get this Theme `](https://github.com/ya0903/NetFin)
+A cinematic Netflix-inspired theme with deep dark visuals, refined hover effects, and a focus on poster artwork. [` 🔵 Get this Theme `](https://github.com/ya0903/NetFin)
 
 <table>
   <tr>
@@ -437,7 +440,7 @@ A Netflix-like theme for Jellyfin. [` 🔵 Get this Theme `](https://github.com/
 
 ## [NeutralFin](https://github.com/KartoffelChipss/NeutralFin) by KartoffelChipss
 
-A black and grey theme with a modern look. [` 🔵 Get this Theme `](https://github.com/KartoffelChipss/NeutralFin)
+NeutralFin is a custom Jellyfin theme based on [lscambo13's ElegantFin](https://github.com/lscambo13/ElegantFin), featuring a sleek black and grey color scheme for a more neutral and modern look. [` 🔵 Get this Theme `](https://github.com/KartoffelChipss/NeutralFin)
 
 <table>
   <tr>
@@ -462,7 +465,7 @@ A black and grey theme with a modern look. [` 🔵 Get this Theme `](https://git
 
 ## [Scyfin](https://github.com/loof2736/scyfin) by loof2736
 
-A custom theme for the Jellyfin web UI, with several colour themes. [` 🔵 Get this Theme `](https://github.com/loof2736/scyfin)
+Custom CSS theme for Jellyfin with support for backdrops and themes [` 🔵 Get this Theme `](https://github.com/loof2736/scyfin)
 
 <table>
   <tr>
@@ -508,7 +511,10 @@ A custom theme for the Jellyfin web UI, with several colour themes. [` 🔵 Get 
 
 ## [Ultrachromic](https://github.com/CTalvio/Ultrachromic) by CTalvio
 
-A very configurable theme. The preview shows its three ready-made presets. [` 🔵 Get this Theme `](https://github.com/CTalvio/Ultrachromic)
+The final form, the true evolution of the chromic theme saga [` 🔵 Get this Theme `](https://github.com/CTalvio/Ultrachromic)
+
+> [!NOTE]
+> There are several variations of the theme, for a more detailed overview, see the Ultrachromic README: https://github.com/CTalvio/Ultrachromic#readme
 
 <table>
   <tr>
@@ -533,7 +539,7 @@ A very configurable theme. The preview shows its three ready-made presets. [` �
 
 ## [Zesty](https://github.com/stpnwf/ZestyTheme) by stpnwf
 
-A minimal theme with several colour schemes. [` 🔵 Get this Theme `](https://github.com/stpnwf/ZestyTheme)
+A minimal and elegant theme for Jellyfin [` 🔵 Get this Theme `](https://github.com/stpnwf/ZestyTheme)
 
 <table>
   <tr>

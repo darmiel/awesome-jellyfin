@@ -4,7 +4,7 @@ owners:
 name: Jamfin
 author: JamsRepos
 repo: https://github.com/JamsRepos/Jamfin
-description: A glassmorphism design for Jellyfin.
+description: Bringing a modern, sleek glassmorphism design to Jellyfin, enhancing your media server's aesthetics.
 status: hidden
 screenshots:
   - https://github.com/JamsRepos/Jamfin/raw/main/assets/screenshots/home.jpg
