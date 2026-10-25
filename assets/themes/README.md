@@ -18,7 +18,7 @@ If you use an editor with YAML language server support, the first line of the fi
 | `name` | yes | Display name of the theme. |
 | `author` | yes | Name of the author. |
 | `repo` | yes | Link to the theme's repository. |
-| `status` | yes | `listed` shows the theme in THEMES.md. `hidden` keeps it in the data only. |
+| `status` | yes | `listed` puts the theme in the normal section of THEMES.md. `hidden` puts it in the collapsed section at the end, for themes not yet updated for the current Jellyfin version. |
 | `variants` | yes | Versions of the theme. The first one is the default. Can be empty only if `requires_js` is `true`. |
 | `author_url` | no | Link to the author's profile. |
 | `website` | no | Link to the theme's website or demo. |
@@ -31,12 +31,12 @@ If you use an editor with YAML language server support, the first line of the fi
 
 Each variant has an `id`, a `name` and the `css` users paste into Jellyfin's Custom CSS. A variant can also set `settings` to change the default of a setting for that variant.
 
-A setting has an `id`, a `label` and a `type`:
+Every setting needs an `id` (lowercase letters, digits, dots and hyphens), a `label`, a `type` and a `default`. A `description` is optional. What else it needs depends on the type:
 
-- `toggle` adds its `css` when switched on.
-- `select` offers two or more `options`, each with a `value`, a `label` and optional `css`.
-- `color` sets a CSS variable (`var`) to a color.
-- `number` sets a CSS variable (`var`) to a number, with optional `min`, `max`, `step` and `unit`.
+- `toggle` needs `css`, which is added when the toggle is on. The `default` is `true` or `false`.
+- `select` needs two or more `options`, each with a `value` and a `label` and an optional `css`. The `default` is one of the option values.
+- `color` needs `var`, a CSS variable name starting with `--`. The `default` is a color.
+- `number` needs `var`, a CSS variable name starting with `--`. The `default` is a number. `min`, `max`, `step` and `unit` are optional.
 
 ## Variants and settings
 

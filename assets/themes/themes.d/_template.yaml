@@ -16,7 +16,8 @@ name: My Theme
 author: your-github-handle
 # Link to the theme's repository.
 repo: https://github.com/your-github-handle/my-theme
-# "listed" shows the theme in THEMES.md. "hidden" keeps it in the data only.
+# "listed" puts the theme in the normal section of THEMES.md. "hidden" puts it in the
+# collapsed section at the end, for themes not yet updated for the current Jellyfin version.
 status: listed
 # Mutually exclusive versions of the theme. The first one is the default.
 variants:
