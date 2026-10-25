@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../schema.json
+owners:
+  - darmiel
+name: E2E Issue Theme
+author: KartoffelChipss
+repo: https://github.com/KartoffelChipss/NeutralFin
+status: listed
+screenshots:
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-home.webp
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-movie.webp
+variants:
+  - id: default
+    name: E2E Issue Theme
+    css: |-
+      @import url('https://cdn.jsdelivr.net/gh/KartoffelChipss/NeutralFin@latest/theme/neutralfin-minified.css');
