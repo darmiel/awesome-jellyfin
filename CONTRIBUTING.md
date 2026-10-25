@@ -9,7 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Use the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/) (`<type>[optional scope]: <description>`).
 - **Alphabetical Sorting**: Items in `README.md` must be sorted alphabetically. See [Sorting Rules](#sorting-rules).
-- **Templated Content**: Some files, like `CLIENTS.md` are automatically generated from files. You should only edit the original source files from which they're generated from. See [Templated Content](#templated-content).
+- **Templated Content**: Some files, like `CLIENTS.md` are automatically generated from files. `THEMES.md` is generated from the files in `assets/themes/themes.d` (see the [themes README](assets/themes/README.md)). You should only edit the original source files from which they're generated from. See [Templated Content](#templated-content).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive and non-promotional.
@@ -71,7 +71,7 @@ If two items end up with the same canonical text, their **original order** is pr
 
 ## Templated Content
 
-Some files in this repository are automatically generated from other source files. For example, `CLIENTS.md` is generated from `assets/clients/clients.yaml`.  
+Some files in this repository are automatically generated from other source files. For example, `CLIENTS.md` is generated from `assets/clients/clients.yaml`. `THEMES.md` is generated from the files in `assets/themes/themes.d`, see the [themes README](assets/themes/README.md).  
 - **Do not edit these generated files directly.** Instead, edit the original source files from which they’re generated.  
 - Each generated file clearly indicates that it is automatically generated.
 - Once you push your changes to the source file, the project’s checks will automatically regenerate the corresponding output file.  

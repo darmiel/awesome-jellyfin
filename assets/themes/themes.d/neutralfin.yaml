@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../schema.json
+owners:
+  - KartoffelChipss
+name: NeutralFin
+author: KartoffelChipss
+repo: https://github.com/KartoffelChipss/NeutralFin
+description: A black and grey theme with a modern look.
+status: hidden
+screenshots:
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-movie2.webp
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-home.webp
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-movies.webp
+  - https://github.com/KartoffelChipss/NeutralFin/raw/main/assets/neutralfin-movie.webp
+variants:
+  - id: default
+    name: NeutralFin
+    css: '@import url("https://cdn.jsdelivr.net/gh/KartoffelChipss/NeutralFin@latest/theme/neutralfin-minified.css");'

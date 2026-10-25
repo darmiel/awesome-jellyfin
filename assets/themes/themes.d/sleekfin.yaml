@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../schema.json
+owners:
+  - varunaditya-plus
+name: SleekFin
+author: varunaditya-plus
+repo: https://github.com/varunaditya-plus/SleekFin
+description: A full Jellyfin Web refresh with a home hero section and redesigned pages. Installed as a plugin.
+status: listed
+requires_js: true
+screenshots:
+  - https://github.com/user-attachments/assets/c1c73946-4b85-452a-af94-3d3b7d4e28e2
+  - https://github.com/user-attachments/assets/e4bdc58d-4c62-4633-9d0a-c8b80d9a727b
+  - https://github.com/user-attachments/assets/bd8fef2d-5a17-4349-913f-eca73003d446
+  - https://github.com/user-attachments/assets/fad95eac-7c83-4140-946e-6668136bea62
+variants: []
