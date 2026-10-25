@@ -49,6 +49,20 @@ A clean, minimal dark theme with frosted glass surfaces, smooth transitions, and
 
 ---
 
+## [E2E Test Theme](https://github.com/darmiel/awesome-jellyfin) by [darmiel](https://github.com/darmiel)
+
+A test theme used to check the theme preview bot end to end. [` 🔵 Get this Theme `](https://github.com/darmiel/awesome-jellyfin)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/KartoffelChipss/NeutralFin/blob/main/assets/neutralfin-home.webp" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## [ElegantFin](https://github.com/lscambo13/ElegantFin) by lscambo13
 
 Inspired by Jellyseerr, with many small fixes to the UI and UX. [` 🔵 Get this Theme `](https://github.com/lscambo13/ElegantFin)
