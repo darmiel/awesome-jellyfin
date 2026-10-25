@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../schema.json
+owners:
+  - someone-else
+name: E2E Test Theme
+author: darmiel
+author_url: https://github.com/darmiel
+repo: https://github.com/darmiel/awesome-jellyfin
+description: A test theme used to check the theme preview bot end to end.
+status: listed
+screenshots:
+  - https://github.com/KartoffelChipss/NeutralFin/blob/main/assets/neutralfin-home.webp
+variants:
+  - id: default
+    name: E2E Test Theme
+    css: |-
+      @import url("https://cdn.jsdelivr.net/gh/KartoffelChipss/NeutralFin@latest/theme/neutralfin-minified.css");
