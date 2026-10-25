@@ -596,3 +596,5 @@ A minimal and elegant theme for Jellyfin [` 🔵 Get this Theme `](https://githu
     👉 Back to <a href="https://github.com/awesome-jellyfin/awesome-jellyfin">awesome-jellyfin/awesome-jellyfin</a>
   </strong>
 </p>
+
+Hand edit.
